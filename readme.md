@@ -11,8 +11,8 @@
 10. [C++ Primer Plus（中文版第5版）](https://github.com/onestraw/ebook/blob/master/01_programming/C%2B%2B.Primer.Plus%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%E7%AC%AC5%E7%89%88%EF%BC%89.pdf)
 11. [Effective C++（中文版第3版）](https://github.com/onestraw/ebook/blob/master/01_programming/Effective%20C%2B%2B%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf)
 12. [The C++ Programming Language(3rd Edition)](https://github.com/onestraw/ebook/blob/master/01_programming/The%20C%2B%2B%20Programming%20Language.pdf)
-13. [STL源码剖析（侯捷译）]
-14. [深度探索C++对象模型]
+13. [STL源码剖析（侯捷译）](https://github.com/onestraw/ebook/blob/master/01_programming/STL%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%EF%BC%88%E4%BE%AF%E6%8D%B7%E8%AF%91%EF%BC%89.pdf)
+14. [深度探索C++对象模型](https://github.com/onestraw/ebook/blob/master/01_programming/%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2C%2B%2B%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B.pdf)
 21. [Python 核心编程（中文第2版）](https://github.com/onestraw/ebook/blob/master/01_programming/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B.pdf)
 22. [How to Think Like a Computer Scientist--Learinig with Python](https://github.com/onestraw/ebook/blob/master/01_programming/How%20to%20Think%20Like%20a%20Computer%20Scientist--Learinig%20with%20Python.pdf)
 31. [ANSI Common Lisp（中文版）](https://github.com/onestraw/ebook/blob/master/01_programming/ANSI%20Common%20Lisp%20%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88.pdf)
@@ -36,16 +36,16 @@
 4. [Linux内核设计与实现（中文第3版）](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
 5. [Linux Kernel Development(3rd Edition)](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux.Kernel.Development.3rd.Edition.pdf)
 6. [Linux内核源代码情景分析](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux%E5%86%85%E6%A0%B8%E6%BA%90%E4%BB%A3%E7%A0%81%E6%83%85%E6%99%AF%E5%88%86%E6%9E%90.pdf)
-7. [深入理解linux内核（中文第三版）]
-8. [Linux内核编程]
-9. [The Linux Kernel Module Programming Guide]
+7. [深入理解linux内核（中文第三版）](https://github.com/onestraw/ebook/blob/master/03_operating_system/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
+8. [Linux内核编程](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux%E5%86%85%E6%A0%B8%E7%BC%96%E7%A8%8B.pdf)
+9. [The Linux Kernel Module Programming Guide](https://github.com/onestraw/ebook/blob/master/03_operating_system/The%20Linux%20Kernel%20Module%20Programming%20Guide.pdf)
 
 ###网络协议
-1. [TCP/IP详解卷I]
-2. [TCP/IP详解卷II]
-3. [TCP/IP详解卷III]
-4. [图解TCP/IP]
-5. [HTTP权威指南]
+1. [TCP/IP详解卷I](https://github.com/onestraw/ebook/blob/master/04_network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7I.pdf)
+2. [TCP/IP详解卷II](https://github.com/onestraw/ebook/blob/master/04_network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7II.pdf)
+3. [TCP/IP详解卷III](https://github.com/onestraw/ebook/blob/master/04_network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7III.pdf)
+4. [图解TCP/IP](https://github.com/onestraw/ebook/blob/master/04_network/%E5%9B%BE%E8%A7%A3TCP_IP_%E7%AC%AC5%E7%89%88.pdf)
+5. [HTTP权威指南](https://github.com/onestraw/ebook/blob/master/04_network/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 
 ###其它
 1. [How Google Tests Software](https://github.com/onestraw/ebook/blob/master/09_other/How-Google-Tests-Software.pdf)
