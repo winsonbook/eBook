@@ -24,7 +24,7 @@
   32. [高级Bash脚本编程指南](https://github.com/onestraw/ebook/blob/master/01_programming/%E9%AB%98%E7%BA%A7Bash%E8%84%9A%E6%9C%AC%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
 - 调试
   50. [Debug.Hacks 深入调试的技术和工具](https://github.com/onestraw/ebook/blob/master/01_programming/Debug.Hacks%20%E6%B7%B1%E5%85%A5%E8%B0%83%E8%AF%95%E7%9A%84%E6%8A%80%E6%9C%AF%E5%92%8C%E5%B7%A5%E5%85%B7.pdf)
-  51. [程序员的自我修养—链接、装载与库]
+  51. [程序员的自我修养—链接、装载与库](https://github.com/onestraw/ebook/blob/master/01_programming/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%E2%80%94%E9%93%BE%E6%8E%A5%E3%80%81%E8%A3%85%E8%BD%BD%E4%B8%8E%E5%BA%93.pdf)
 
 ###算法
 
