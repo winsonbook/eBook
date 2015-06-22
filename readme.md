@@ -17,9 +17,6 @@
 - Linux
   20. [UNIX环境高级编程（中文第2版）](https://github.com/onestraw/ebook/blob/master/01_programming/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
   20. [The Linux Programming Interface](https://github.com/onestraw/ebook/blob/master/01_programming/The%20Linux%20Programming%20Interface.pdf) 
-  20. [UNIX编程艺术（中文）]
-  20. [UNIX网络编程卷1：套接字联网API（第3版）]
-  20. [UNIX网络编程卷2：进程间通信（第2版）]
 - 脚本
   21. [Python 核心编程（中文第2版）](https://github.com/onestraw/ebook/blob/master/01_programming/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B.pdf)
   22. [How to Think Like a Computer Scientist--Learinig with Python](https://github.com/onestraw/ebook/blob/master/01_programming/How%20to%20Think%20Like%20a%20Computer%20Scientist--Learinig%20with%20Python.pdf)
