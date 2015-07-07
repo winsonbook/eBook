@@ -50,6 +50,7 @@
 7. [深入理解linux内核（中文第三版）](https://github.com/onestraw/ebook/blob/master/03_operating_system/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
 8. [Linux内核编程](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux%E5%86%85%E6%A0%B8%E7%BC%96%E7%A8%8B.pdf)
 9. [The Linux Kernel Module Programming Guide](https://github.com/onestraw/ebook/blob/master/03_operating_system/The%20Linux%20Kernel%20Module%20Programming%20Guide.pdf)
+10. [Linux Device Drivers.3rd.Edition]
 
 ###网络协议
 1. [TCP/IP详解卷I](https://github.com/onestraw/ebook/blob/master/04_network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7I.pdf)
