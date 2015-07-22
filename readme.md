@@ -17,9 +17,9 @@
 - Linux
   20. [UNIX环境高级编程（中文第2版）](https://github.com/onestraw/ebook/blob/master/01_programming/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
   20. [The Linux Programming Interface](https://github.com/onestraw/ebook/blob/master/01_programming/The%20Linux%20Programming%20Interface.pdf) 
-  20. [UNIX编程艺术（中文）]
-  20. [UNIX网络编程卷1：套接字联网API（第3版）]
-  20. [UNIX网络编程卷2：进程间通信（第2版）]
+  20. [UNIX编程艺术（中文）](https://github.com/onestraw/ebook/blob/master/01_programming/UNIX%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89.pdf)
+  20. [UNIX网络编程卷1：套接字联网API（第3版）](https://github.com/onestraw/ebook/blob/master/01_programming/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B71%EF%BC%9A%E5%A5%97%E6%8E%A5%E5%AD%97%E8%81%94%E7%BD%91API%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf)
+  20. [UNIX网络编程卷2：进程间通信（第2版）](https://github.com/onestraw/ebook/blob/master/01_programming/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B72%EF%BC%9A%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 - 脚本
   21. [Python 核心编程（中文第2版）](https://github.com/onestraw/ebook/blob/master/01_programming/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B.pdf)
   22. [How to Think Like a Computer Scientist--Learinig with Python](https://github.com/onestraw/ebook/blob/master/01_programming/How%20to%20Think%20Like%20a%20Computer%20Scientist--Learinig%20with%20Python.pdf)
@@ -50,7 +50,7 @@
 7. [深入理解linux内核（中文第三版）](https://github.com/onestraw/ebook/blob/master/03_operating_system/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
 8. [Linux内核编程](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux%E5%86%85%E6%A0%B8%E7%BC%96%E7%A8%8B.pdf)
 9. [The Linux Kernel Module Programming Guide](https://github.com/onestraw/ebook/blob/master/03_operating_system/The%20Linux%20Kernel%20Module%20Programming%20Guide.pdf)
-10. [Linux Device Drivers.3rd.Edition]
+10. [Linux Device Drivers.3rd.Edition](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux.Kernel.Development.3rd.Edition.pdf)
 
 ###网络协议
 1. [TCP/IP详解卷I](https://github.com/onestraw/ebook/blob/master/04_network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7I.pdf)
