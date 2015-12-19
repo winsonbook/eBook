@@ -68,6 +68,7 @@
 6. [数学之美](https://github.com/onestraw/ebook/blob/master/09_other/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
 7. [代码之美](https://github.com/onestraw/ebook/blob/master/09_other/%E4%BB%A3%E7%A0%81%E4%B9%8B%E7%BE%8EBeautiful%20Code.pdf)
 8. [高效程序员的45个习惯](https://github.com/onestraw/ebook/blob/master/09_other/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF.pdf)
+9. [从零到一]
 
 ###链接
 
